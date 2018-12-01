@@ -1,0 +1,40 @@
+header{
+	font-size: 80px;
+	background-color: #ffcccc;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#Addnote{
+	background-color: #D0D6B5;
+}
+
+#TextDisplay{
+	border: solid 2px;
+	background-color: #CFD5F3;
+	min-height: 150px;
+	padding: 10px;
+	word-wrap: break-word;
+}
+#CurrentClients{
+	background-color: #7B8CDE;
+}
+#extraDisplay{
+	border: solid 2px;
+	background-color: #CFD5F3;
+	padding: 10px;
+	word-wrap: break-word;
+	min-height: 150px;
+}
+
+#PotentialClients{
+	background-color: #A17E8F;
+}
+#extraDisplay2{
+	border: solid 2px;
+	background-color: #CFD5F3;
+	padding: 10px;
+	min-height: 150px;
+	word-wrap: break-word;
+}
